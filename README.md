@@ -10,7 +10,7 @@ If you need help with the app, found a bug, or want to request a feature, you’
 
 For support inquiries, please reach out:
 
-**Email:** jevinta@seas.upenn.edu
+**Email:** triptuner.help@gmail.com
 
 We do our best to respond within **1–3 business days**.
 
