@@ -1,140 +1,82 @@
-# TripTuner Privacy Policy
+# TripTuner Support
 
-**Last Updated: December 10, 2025**
+Welcome to the official support page for **TripTuner** — the app that helps you discover and share authentic, community-created travel itineraries.
 
-TripTuner (“we,” “our,” or “us”) provides a community-driven platform for discovering and sharing local travel itineraries. This Privacy Policy explains how we collect, use, and protect your information when you use the TripTuner mobile application (“App”).
-
-By using TripTuner, you agree to the practices described in this Privacy Policy.
+If you need help with the app, found a bug, or want to request a feature, you’re in the right place.
 
 ---
 
-## 1. Information We Collect
+## 📩 Contact Us
 
-### 1.1 Information You Provide
-We may collect personal information that you voluntarily provide when using the App, including:
-
-- **Email address** (used for account creation and login via Firebase Authentication)
-- **Content you submit**, such as itineraries, descriptions, and photos
-- **Profile information**, including your display name or profile photo (if provided)
-
-### 1.2 Automatically Collected Information
-We may automatically collect:
-
-- **Device information** (model, OS version)
-- **Usage data** (interactions within the app)
-- **Crash logs and diagnostics**
-- **General location information** (city/region) — *not precise GPS*
-
-### 1.3 Firebase Services
-TripTuner uses the following Firebase services:
-
-- Firebase Authentication  
-- Firebase Firestore  
-- Firebase Cloud Storage  
-- Firebase Analytics (if enabled)
-
-These services may collect:
-
-- IP address  
-- Authentication tokens  
-- Anonymous usage statistics  
-
-For more information, please review Google’s Privacy Policy:  
-https://policies.google.com/privacy
-
----
-
-## 2. How We Use Your Information
-
-We use your information to:
-
-- Provide core features of the App  
-- Allow you to create an account and log in  
-- Save, store, and display itineraries you submit  
-- Improve the App’s performance and functionality  
-- Maintain security and prevent abuse  
-- Respond to support requests  
-- Conduct analytics and understand app usage patterns (if enabled)
-
-We **do not** sell or rent your personal information.
-
----
-
-## 3. User-Generated Content
-
-TripTuner allows users to submit itineraries and travel recommendations. By submitting content, you understand that:
-
-- Your content may be visible to other users  
-- You may delete your content at any time  
-- We may remove content that violates our community guidelines  
-- You must not submit illegal, copyrighted, or harmful content
-
----
-
-## 4. Cookies and Tracking
-
-TripTuner does **not** use cookies.  
-Firebase may use identifiers to support analytics and crash reporting.
-
----
-
-## 5. Data Sharing
-
-We may share your information only with trusted third-party service providers:
-
-- **Google Firebase** (for authentication, database storage, and analytics)
-- **Apple App Store** (for crash reports and analytics)
-
-We do **not** share your data with advertisers.
-
----
-
-## 6. Data Security
-
-We take reasonable steps to protect your information, including:
-
-- Encrypted communication (HTTPS/TLS)
-- Secure authentication mechanisms
-- Access controls within Firebase
-
-However, no method of transmission or storage can be guaranteed 100% secure.
-
----
-
-## 7. Your Rights
-
-Depending on your location, you may have the right to:
-
-- Access or delete your personal data  
-- Correct inaccurate information  
-- Request a copy of your data  
-- Withdraw consent by deleting your account  
-
-You may submit requests through the contact information below.
-
----
-
-## 8. Children’s Privacy
-
-TripTuner is not intended for children under the age of 13.  
-We do not knowingly collect personal information from children under 13.
-
----
-
-## 9. Changes to This Policy
-
-We may update this Privacy Policy from time to time.  
-Changes will be posted on this page with a revised “Last Updated” date.
-
----
-
-## 10. Contact Us
-
-If you have questions about this Privacy Policy or wish to make a data request, please contact us:
+For support inquiries, please reach out:
 
 **Email:** jevinta@seas.upenn.edu
 
-**Support Page:** https://<your-github-username>.github.io/triptuner-support
+We do our best to respond within **1–3 business days**.
+
+---
+
+## 🛠 Common Issues & Help
+
+### **1. I can’t log in. What should I do?**
+TripTuner uses Firebase Authentication. Try:
+- Restarting the app  
+- Checking your internet connection  
+- Closing and reopening the app  
+
+If the issue continues, email us with:
+- The email you used to sign in  
+- The device you are using (iPhone model + iOS version)
+
+---
+
+### **2. My itinerary is not saving.**
+Make sure:
+- You are connected to the internet  
+- Your app is up to date  
+- You are signed in with your correct account  
+
+Send us details if the problem persists.
+
+---
+
+### **3. How can I delete my account or data?**
+You may request data deletion or account removal at any time by emailing us:
+
+**Subject:** “TripTuner Data Deletion Request”  
+Include your account email.
+
+---
+
+### **4. How can I report inappropriate content?**
+Email us with:
+- A screenshot of the content  
+- The username of the person who posted it  
+- A short description of the issue  
+
+We review all reports as quickly as possible.
+
+---
+
+## 🔒 Privacy & Security
+
+Our Privacy Policy is available here:
+
+👉 https://github.com/jevinta/TripTuner-privacy
+
+We take your privacy seriously and follow standard industry practices to keep your information safe.
+
+---
+
+## 📣 Feedback & Feature Requests
+
+TripTuner is actively being developed and improved.  
+If you have ideas, suggestions, or feature requests:
+
+- Email us  
+- Or submit an issue through our GitHub repo (optional)
+
+Your feedback helps make TripTuner better for everyone.
 
 ---
 
